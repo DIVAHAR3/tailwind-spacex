@@ -1,0 +1,23 @@
+{
+  "name": "ailwind-spacex-flight-control-preview",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vue/server-renderer": "^3.5.3",
+    "vue": "^3.2.6",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.3.3",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.8",
+    "vite": "^2.9.18",
+    "vite-svg-loader": "^2.2.0"
+  }
+}
