@@ -1,7 +1,7 @@
 <template>
   <div
     class="w-full min-h-screen px-12 pt-10 font-sans bg-cover border-blue-900 border-b-16"
-    style="background-image: url('/img/background.png')"
+    style="background-image: url('/Image/background.png')"
   >
     <div
       class="absolute inset-0 pointer-events-none bg-gradient-to-b from-black/30 to-transparent"
@@ -25,7 +25,7 @@
         <div
           class="absolute flex flex-col justify-center -translate-x-1/2 left-1/2 top-52"
         >
-          <img class="w-[380px] h-auto" src="/img/Space-X-Dragon.png" alt="" />
+          <img class="w-[380px] h-auto" src="/Image/Space-X-Dragon.png" alt="" />
         </div>
 
         <!-- Example of some static content remaining in the layout -->
