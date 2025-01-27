@@ -58,7 +58,7 @@
 
       <div class="flex items-center justify-end space-x-5 w-80">
         <span class="tracking-wider text-gray-600 text-xxs whitespace-nowrap">
-          Power, Engine, Comms
+          @copy Right
         </span>
         <button
           class="px-8 py-4 border rounded text-white text-sm font-bold border-gray-600/50 bg-gray-900 bg-opacity-[0.1] uppercase"
