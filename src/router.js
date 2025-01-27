@@ -7,7 +7,6 @@ import PropPage from "./components/PropPage.vue";
 import MechPage from "./components/MechPage.vue";
 import PowerPage from "./components/PowerPage.vue";
 import AvionicsPage from "./components/AvionicsPage.vue";
-import GncPage from "./components/GncPage.vue";
 import ThermalPage from "./components/ThermalPage.vue";
 
 const routes = [
@@ -18,7 +17,6 @@ const routes = [
   { path: "/mech", component: MechPage },
   { path: "/power", component: PowerPage },
   { path: "/avionics", component: AvionicsPage },
-  { path: "/gnc", component: GncPage },
   { path: "/thermal", component: ThermalPage },
   { path: "/", redirect: "/overview" }, 
   { path: "/:pathMatch(.*)*", redirect: "/overview" },
